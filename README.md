@@ -1,7 +1,7 @@
 # Desafio: Merge com Conflito
 
 Este repositório contém o desafio de realizar um merge com conflito utilizando Git. Desafio proposto pela Devsuperior no módulo de Git e Github como exercício para treinar a criação de branches, trabalho em equipe e solução de conflitos no momento de fazer o merge na 
-branch principal.Abaixo estão as instruções detalhadas para reproduzir o processo.
+branch principal. Abaixo estão as instruções detalhadas para reproduzir o processo.
 
 ## Instruções
 
