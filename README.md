@@ -5,6 +5,8 @@ branch principal. Abaixo estão as instruções detalhadas para reproduzir o pro
 
 ## Instruções
 
+Você deve iniciar um repositório Git, realizar o procedimento conforme passos a seguir, depois enviar
+o link do seu repositório no Github.
 1. (branch main) Crie um arquivo "index.html" contendo o código a seguir:
 
 ```
